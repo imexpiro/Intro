@@ -1,2 +1,2 @@
-# SE-Learn
-Belajar menjadi seorang Software Engineer
+# Intro
+Belajar menggunakan GitHub
