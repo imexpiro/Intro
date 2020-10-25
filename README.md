@@ -1,2 +1,2 @@
 # Intro
-Belajar menggunakan GitHub
+Repository untuk Belajar menggunakan GitHub
