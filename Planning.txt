@@ -11,3 +11,4 @@ Planning:
 - Belajar bahasa pemrograman python
 - Belajar machine learning
 - Belajar pemrograman web
+- Balajar bahasa pemrograman kotlin
