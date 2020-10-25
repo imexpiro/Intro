@@ -1,0 +1,10 @@
+Planning:
+- Lomba pemrograman:
+  - UNITY
+  - INAICTA
+  - COMPFEST
+  - Imagine Cup
+  - IWIC
+  - GEMASTIK
+- Buat Aplikasi Mobile
+- Belajar bahasa pemrograman python
