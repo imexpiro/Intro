@@ -8,3 +8,4 @@ Planning:
   - GEMASTIK
 - Buat Aplikasi Mobile
 - Belajar bahasa pemrograman python
+- Belajar pemrograman web
