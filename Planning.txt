@@ -1,0 +1,4 @@
+Planning:
+- Lomba pemrograman
+- Buat Aplikasi Mobile
+- Belajar bahasa pemrograman python
