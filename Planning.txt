@@ -7,5 +7,7 @@ Planning:
   - IWIC
   - GEMASTIK
 - Buat Aplikasi Mobile
+- Buat Website
 - Belajar bahasa pemrograman python
 - Belajar machine learning
+- Belajar pemrograman web
