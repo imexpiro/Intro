@@ -9,5 +9,5 @@ Planning:
 - Buat Aplikasi Mobile
 - Buat Website
 - Belajar bahasa pemrograman python
+- Belajar machine learning
 - Belajar pemrograman web
-- Machine Learning
